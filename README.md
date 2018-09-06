@@ -1,1 +1,1 @@
-This is a simple ToDo app designed with HTML, CSS and Javascript.
+This is a simple ToDo app designed with HTML, CSS and Javascript/JQuery.
